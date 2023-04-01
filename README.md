@@ -3,7 +3,8 @@ This is a Handy NPM Package as Stackblitz users often want to migrate to Awesome
 
 
 ## Interfaces
--
+- nodejs filesystem used via "node node_modules/stackblitz-integration/upload.js" using https.
+- 
 
 
 ```js
